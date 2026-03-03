@@ -1,0 +1,12 @@
+# Environment variables
+.env
+.env.*
+
+# Dependencies
+node_modules/
+
+# OS files
+.DS_Store
+
+# Woodbury runtime status
+.webui-status.json
